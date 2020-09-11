@@ -1,0 +1,3 @@
+[submodule "riscv_asconp_accelerator_core"]
+	path = riscv_asconp_accelerator_core
+	url = https://github.com/Steinegger/riscv_asconp_accelerator_core.git
