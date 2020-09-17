@@ -19,8 +19,8 @@ You can cite us:
 ```
 
 # Structure
-**hw_core**: contains hardware design of the modified RI5CY/CV32E40P RISC-V core.
-**riscv-isa-sim**: contains a functional riscv-isa-sim model with the added Ascon-p instruction.
+**hw_core**: contains hardware design of the modified RI5CY/CV32E40P RISC-V core.  
+**riscv-isa-sim**: contains a functional riscv-isa-sim model with the added Ascon-p instruction.  
 
 
 # References:  
