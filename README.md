@@ -21,6 +21,7 @@ You can cite us:
 # Structure
 **hw_core**: contains hardware design of the modified RI5CY/CV32E40P RISC-V core.  
 **riscv-isa-sim**: contains a functional riscv-isa-sim model with the added Ascon-p instruction.  
+**sw**: contains the software implementation of Ascon and ISAP-RK using the Ascon-p instruction, and a benchmarking setup for Ascon, Ascon-Hash and ISAP
 
 
 # References:  

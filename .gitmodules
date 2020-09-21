@@ -4,3 +4,6 @@
 [submodule "riscv_asconp_accelerator_isa_sim"]
 	path = riscv-isa-sim
 	url = https://github.com/Steinegger/riscv_asconp_accelerator_isa_sim.git
+[submodule "riscv_asconp_accelerator_software"]
+	path = sw
+	url = https://github.com/Steinegger/riscv_asconp_accelerator_software.git
